@@ -14,6 +14,8 @@
 <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayadhanush&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/jayadhanushravichandran?theme=dark&font=Baloo%202&ext=heatmap)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
